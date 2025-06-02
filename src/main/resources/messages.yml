@@ -1,0 +1,5 @@
+MESSAGES:
+  REGISTER_SUCCESS: "&aRegistration successful! Please log in."
+  LOGIN_SUCCESS: "&aLogin successful! Welcome back."
+  LOGIN_FAIL: "&cIncorrect password! Attempts left: {attempts}"
+  LOCKED_OUT: "&cToo many failed attempts. Try again in {time} seconds."
