@@ -1,0 +1,5 @@
+name: AuthEase
+version: '${project.version}'
+main: lol.vifez.auth.AuthEase
+authors: [vifez]
+description: A super cool minecraft authentificator plugin to help secure cracked servers
